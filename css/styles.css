@@ -118,6 +118,9 @@ section p {
 .section-team p {
     text-align: center;
 }
+.section-portfolio h2 {
+    text-align: center;
+}
 
 /* #region footer*/
 footer {
